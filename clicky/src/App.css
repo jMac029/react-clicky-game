@@ -1,28 +1,40 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  clear: both;
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+  background-color: #2b5271;
+  padding: 8vw 1vw 2.5vw;
   color: white;
+  background-image: url('./starfield.jpg');
+  background-size: cover;
 }
 
-.App-title {
-  font-size: 1.5em;
+.App-header h1 {
+  font-size: 3.5vw;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
-.App-intro {
-  font-size: large;
+.App-header h1 {
+  margin-top: 0;
+  font-size: 3.5vw;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.App-header h3 {
+  -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+  font-size: 2.4vw;
+}
+
+.container {
+  padding-top: 50px;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: center;
+  align-content: flex-start;
+  overflow: auto;
 }

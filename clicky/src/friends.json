@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "image": "img/luke-skywalker.png"
+  },
+  {
+    "id": 2,
+    "name": "Captain Phasma",
+    "image": "img/captain-phasma.png"
+  },
+  {
+    "id": 3,
+    "name": "Chewbaca",
+    "image": "img/chewbaca.png"
+  },
+  {
+    "id": 4,
+    "name": "Darth Maul",
+    "image": "img/darth-maul.png"
+  },
+  {
+    "id": 5,
+    "name": "Storm Trooper",
+    "image": "img/first-order-snowtrooper.png"
+  },
+  {
+    "id": 6,
+    "name": "K-2SO",
+    "image": "img/k-2so.png"
+  },
+  {
+    "id": 7,
+    "name": "Kylo Ren",
+    "image": "img/kylo-ren.png"
+  },
+  {
+    "id": 8,
+    "name": "Lando Calrissian",
+    "image": "img/lando.png"
+  },
+  {
+    "id": 9,
+    "name": "Princess Leia",
+    "image": "img/princess-leia.png"
+  },
+  {
+    "id": 10,
+    "name": "R2-D2",
+    "image": "img/r2-d2.png"
+  },
+  {
+    "id": 11,
+    "name": "Boba Fett",
+    "image": "img/boba-fett.png"
+  },
+  {
+    "id": 12,
+    "name": "Rey",
+    "image": "img/rey.png"
+  }
+]
